@@ -22,17 +22,6 @@ Com a MoneyMate, qualquer pessoa pode planejar, investir e crescer de forma segu
 
 ---
 
-## 🏗️ Nossos Projetos
-
-| Repositório  | Função                                                          |
-| ------------ | --------------------------------------------------------------- |
-| **Frontend** | Interface da plataforma (React, design intuitivo e responsivo). |
-| **Backend**  | API e lógica de negócio (Node.js, segurança e performance).     |
-| **Docs**     | Documentações técnicas, guias e fluxos internos.                |
-| **Design**   | Identidade visual, wireframes e protótipos criativos.           |
-
----
-
 ## 🧩 Tecnologias Principais
 
 * **React** • **Node.js** • **Express**
