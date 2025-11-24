@@ -22,15 +22,6 @@ Com a MoneyMate, qualquer pessoa pode planejar, investir e crescer de forma segu
 
 ---
 
-## 🧩 Tecnologias Principais
-
-* **React** • **Node.js** • **Express**
-* **MongoDB** • **Prisma**
-* **Machine Learning (Python, TensorFlow)**
-* **Figma** • **GitHub Projects**
-
----
-
 ## 💼 Equipe
 
 Um time multidisciplinar focado em **tecnologia, experiência do usuário e finanças inteligentes**.
