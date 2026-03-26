@@ -56,4 +56,4 @@ A MoneyMate AI é estruturada como um assistente financeiro inteligente baseado 
 
 ---
 
-© 2025 MoneyMate AI — Todos os direitos reservados.
+© 2026 MoneyMate AI — Todos os direitos reservados.
