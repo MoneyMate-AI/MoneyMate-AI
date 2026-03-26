@@ -28,7 +28,7 @@ Um time multidisciplinar focado em **tecnologia, experiência do usuário e fina
 Juntos, construímos soluções reais para quem quer ter controle e visão do próprio futuro financeiro.
 
 ---
-##⚙️ Arquitetura da Plataforma
+#⚙️ Arquitetura da Plataforma
 
 A MoneyMate AI é estruturada como um assistente financeiro inteligente baseado em IA, com automação de fluxos e geração dinâmica de dashboards.
 
